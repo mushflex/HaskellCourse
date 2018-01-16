@@ -1,0 +1,2 @@
+# HaskellCourse
+Functional programming course 
